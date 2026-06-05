@@ -1,4 +1,4 @@
-ROI-Lens: Marketing Attribution & Budget Optimization
+#ROI-Lens: Marketing Attribution & Budget Optimization
 A data-driven analytics pipeline that uncovers the true ROI of marketing channels using multi-touch attribution models, replacing the flawed last-click baseline with probabilistic and game-theoretic approaches.
 
 Built for Nexus Consumer Brands — analyzing 10 brands across 5 marketing channels to optimally reallocate a Rs.100 Crore budget.
